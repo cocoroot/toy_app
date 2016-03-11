@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'atom', git: 'https://sdp.nbws.jp/dreg-gitlab/SPF-DREGroup/atom_rails.git'
+gem 'atom', git: 'https://github.com/cocoroot/atom_rails.git'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
