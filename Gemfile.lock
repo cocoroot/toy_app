@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/cocoroot/atom_rails.git
-  revision: 92962b176f711815ca7b0575614ad80c6b0db047
+  revision: 01293ca3e80108314942f9bc9139bb1bb5c90e3e
   specs:
     atom (0.1.0)
 

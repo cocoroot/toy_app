@@ -1,3 +1,2 @@
 # Schemafile
 #   require 'schema/user.schema'
-require 'schema/user.schema'
