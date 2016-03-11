@@ -7,8 +7,8 @@ GIT
       sshkit (~> 1.3)
 
 GIT
-  remote: https://sdp.nbws.jp/dreg-gitlab/SPF-DREGroup/atom_rails.git
-  revision: 31c113933b4ba4ee53e36f8d597ac90e45264a3f
+  remote: https://github.com/cocoroot/atom_rails.git
+  revision: 92962b176f711815ca7b0575614ad80c6b0db047
   specs:
     atom (0.1.0)
 
